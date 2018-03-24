@@ -1,4 +1,4 @@
-# WebOmikujiSite
+# JsOmikujiSite
 おみくじサイト  
 
 ## 実行結果
