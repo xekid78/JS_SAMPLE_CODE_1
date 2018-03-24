@@ -2,7 +2,7 @@
 おみくじサイト  
 
 ## 実行結果
-[【クリックして下さい】](https://xekid78.github.io/WebOmikujiSite/)
+[【クリックして下さい】](https://xekid78.github.io/JsOmikujiSite/.)
   
 ## 開発環境
 | 開発ツール |  |
